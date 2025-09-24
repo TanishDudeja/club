@@ -560,9 +560,9 @@ section {
 }
 
 .event-card {
-  width: 60vw;
-  left: 300px;
-  margin-bottom: 10px;
+  /* width: 100vw; */
+  /* left: 300px; */
+  /* margin-bottom: 10px; */
   background: rgba(255, 255, 255, 0.05);
   backdrop-filter: blur(10px);
   border-radius: 15px;
